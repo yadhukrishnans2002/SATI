@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "383352949608",
+    "project_id": "satiproject1-dca05",
+    "storage_bucket": "satiproject1-dca05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383352949608:android:5f67482d877d32c8d8a4dd",
+        "android_client_info": {
+          "package_name": "com.example.sati_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383352949608-g1vmcbp26blq7u7m0ih3vhimlmheorh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8-3lkbBixok4vC7NgWHZMaRfnM1ipaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383352949608-g1vmcbp26blq7u7m0ih3vhimlmheorh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383352949608-hhgnciut73m7tsl86mpa4evl2n2a0oee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sati1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
